@@ -1,0 +1,1 @@
+export const HOW_MANY_PAGES_ARE_THERE = 1000;
